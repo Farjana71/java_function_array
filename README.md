@@ -36,14 +36,14 @@
 
 ### Solved
 
-- 1. NumberArray
+- 1. number_array
 
-- 2. CountNotes
+- 2. number_of_notes
 
-- 3. HighestSalary
+- 3. highest_Salary
 
-- 4. BazarList
+- 4. bazar_List
 
-- 5. AverageOddEven
+- 5. average_odd_even
 
-- 6. UserAuthentication
+- 6. user_authentication
